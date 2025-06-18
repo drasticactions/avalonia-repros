@@ -5,6 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>true</ImplicitUsings>
     <SupportedOSPlatformVersion>12.0</SupportedOSPlatformVersion>
+    <AssemblyName>AvaloniaReprosApp</AssemblyName>
+    <UseInterpreter>true</UseInterpreter>
 
     <!--
       Enable full trimming in Release mode.
